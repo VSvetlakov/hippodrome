@@ -1,0 +1,196 @@
+2023-09-07 00:00:20,928 DEBUG Horse [main] Создание Horse, имя [Bucephalus}], скорость [2.4]
+2023-09-07 00:00:20,934 DEBUG Horse [main] Создание Horse, имя [Ace of Spades}], скорость [2.5]
+2023-09-07 00:00:20,934 DEBUG Horse [main] Создание Horse, имя [Zephyr}], скорость [2.6]
+2023-09-07 00:00:20,934 DEBUG Horse [main] Создание Horse, имя [Blaze}], скорость [2.7]
+2023-09-07 00:00:20,935 DEBUG Horse [main] Создание Horse, имя [Lobster}], скорость [2.8]
+2023-09-07 00:00:20,935 DEBUG Horse [main] Создание Horse, имя [Pegasus}], скорость [2.9]
+2023-09-07 00:00:20,935 DEBUG Horse [main] Создание Horse, имя [Cherry}], скорость [3.0]
+2023-09-07 00:00:20,935 INFO Main [main] Начало скачек. Количество участников: 7
+2023-09-07 00:00:20,943 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [7]
+2023-09-07 00:00:41,493 INFO Main [main] Окончание скачек. Победитель:  Cherry
+2023-09-07 01:21:24,409 ERROR Horse [main] Name is null
+2023-09-07 01:22:17,697 ERROR Horse [main] Name is null
+2023-09-07 01:33:04,773 ERROR Horse [main] Name is null
+2023-09-07 01:44:49,224 ERROR Horse [main] Name is null
+2023-09-07 01:45:46,432 ERROR Horse [main] Name is null
+2023-09-07 01:45:56,994 ERROR Horse [main] Name is null
+2023-09-07 01:47:44,736 ERROR Horse [main] Name is null
+2023-09-07 01:47:56,826 ERROR Horse [main] Name is null
+2023-09-07 01:47:56,837 DEBUG Horse [main] Создание Horse, имя [null}], скорость [1.0]
+2023-09-07 01:58:12,690 ERROR Horse [main] Name is blank
+2023-09-07 01:58:12,716 ERROR Horse [main] Name is blank
+2023-09-07 01:58:12,722 ERROR Horse [main] Name is blank
+2023-09-07 01:58:12,725 ERROR Horse [main] Name is blank
+2023-09-07 01:59:17,663 ERROR Horse [main] Name is blank
+2023-09-07 01:59:17,692 ERROR Horse [main] Name is blank
+2023-09-07 01:59:17,698 ERROR Horse [main] Name is blank
+2023-09-07 01:59:17,702 ERROR Horse [main] Name is blank
+2023-09-07 01:59:32,780 ERROR Horse [main] Name is blank
+2023-09-07 01:59:32,806 ERROR Horse [main] Name is blank
+2023-09-07 01:59:32,811 ERROR Horse [main] Name is blank
+2023-09-07 01:59:32,815 ERROR Horse [main] Name is blank
+2023-09-07 02:01:51,117 ERROR Horse [main] Speed is negative
+2023-09-07 02:02:00,244 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:02:08,967 ERROR Horse [main] Speed is negative
+2023-09-07 02:03:11,331 ERROR Horse [main] Speed is negative
+2023-09-07 02:03:27,096 ERROR Horse [main] Speed is negative
+2023-09-07 02:04:55,253 ERROR Horse [main] Distance is negative
+2023-09-07 02:05:29,086 ERROR Horse [main] Distance is negative
+2023-09-07 02:05:42,244 ERROR Horse [main] Distance is negative
+2023-09-07 02:07:28,752 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:07:37,516 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:18:53,567 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:18:58,422 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:19:52,255 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:20:16,758 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:27:54,126 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:28:55,492 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 02:29:13,935 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 09:42:17,155 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:42:34,479 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:43:12,002 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:43:18,298 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:44:57,616 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:45:31,067 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:47:43,889 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:47:54,747 ERROR Hippodrome [main] Horses list is null
+2023-09-07 09:49:33,120 DEBUG Horse [main] Создание Horse, имя [Bucephalus}], скорость [2.4]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Ace of Spades}], скорость [2.5]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Zephyr}], скорость [2.6]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Blaze}], скорость [2.7]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Lobster}], скорость [2.8]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Pegasus}], скорость [2.9]
+2023-09-07 09:49:33,122 DEBUG Horse [main] Создание Horse, имя [Cherry}], скорость [3.0]
+2023-09-07 09:49:33,123 INFO Main [main] Начало скачек. Количество участников: 7
+2023-09-07 09:49:33,123 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [7]
+2023-09-07 09:49:53,666 INFO Main [main] Окончание скачек. Победитель:  Pegasus
+2023-09-07 09:53:02,989 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:53:35,552 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:53:35,554 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [0]
+2023-09-07 09:53:53,100 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:55:11,118 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:55:27,959 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:58:57,957 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 09:59:03,294 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 17:38:16,709 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 17:38:16,715 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 17:38:16,715 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 17:38:16,715 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 17:38:16,715 DEBUG Horse [main] Создание Horse, имя [5}], скорость [1.0]
+2023-09-07 17:38:16,715 DEBUG Horse [main] Создание Horse, имя [6}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [7}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [8}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [9}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [10}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [11}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [12}], скорость [1.0]
+2023-09-07 17:38:16,716 DEBUG Horse [main] Создание Horse, имя [13}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [14}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [15}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [16}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [17}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [18}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [19}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [20}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [21}], скорость [1.0]
+2023-09-07 17:38:16,717 DEBUG Horse [main] Создание Horse, имя [22}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [23}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [24}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [25}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [26}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [27}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [28}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [29}], скорость [1.0]
+2023-09-07 17:38:16,718 DEBUG Horse [main] Создание Horse, имя [30}], скорость [1.0]
+2023-09-07 17:38:16,720 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [30]
+2023-09-07 17:48:54,935 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [50]
+2023-09-07 17:54:04,536 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 17:54:04,540 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 17:54:04,540 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 17:54:04,541 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 17:54:04,542 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [4]
+2023-09-07 17:54:16,229 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 17:54:16,234 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 17:54:16,235 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 17:54:16,235 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 17:54:16,236 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [4]
+2023-09-07 17:54:26,182 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 17:54:26,189 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 17:54:26,189 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 17:54:26,189 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 17:54:26,191 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [4]
+2023-09-07 17:55:43,032 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 17:55:43,042 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 17:55:43,042 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 17:55:43,042 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 17:55:43,045 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [4]
+2023-09-07 17:59:13,016 DEBUG Horse [main] Создание Horse, имя [Bucephalus}], скорость [2.4]
+2023-09-07 17:59:13,019 DEBUG Horse [main] Создание Horse, имя [Ace of Spades}], скорость [2.5]
+2023-09-07 17:59:13,019 DEBUG Horse [main] Создание Horse, имя [Zephyr}], скорость [2.6]
+2023-09-07 17:59:13,020 DEBUG Horse [main] Создание Horse, имя [Blaze}], скорость [2.7]
+2023-09-07 17:59:13,020 DEBUG Horse [main] Создание Horse, имя [Lobster}], скорость [2.8]
+2023-09-07 17:59:13,020 DEBUG Horse [main] Создание Horse, имя [Pegasus}], скорость [2.9]
+2023-09-07 17:59:13,020 DEBUG Horse [main] Создание Horse, имя [Cherry}], скорость [3.0]
+2023-09-07 17:59:13,020 INFO Main [main] Начало скачек. Количество участников: 7
+2023-09-07 17:59:13,021 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [7]
+2023-09-07 17:59:33,575 INFO Main [main] Окончание скачек. Победитель:  Cherry
+2023-09-07 18:26:27,564 ERROR Horse [main] Name is blank
+2023-09-07 18:26:27,586 ERROR Horse [main] Name is blank
+2023-09-07 18:26:27,593 ERROR Horse [main] Name is blank
+2023-09-07 18:26:27,601 ERROR Horse [main] Name is blank
+2023-09-07 18:26:27,610 ERROR Horse [main] Speed is negative
+2023-09-07 18:26:27,620 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 18:26:27,626 ERROR Horse [main] Name is null
+2023-09-07 18:26:27,630 ERROR Horse [main] Distance is negative
+2023-09-07 18:26:27,634 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 18:26:28,608 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 18:26:28,674 ERROR Horse [main] Distance is negative
+2023-09-07 18:26:28,679 ERROR Horse [main] Speed is negative
+2023-09-07 18:26:28,695 ERROR Horse [main] Name is blank
+2023-09-07 18:26:28,703 ERROR Horse [main] Name is blank
+2023-09-07 18:26:28,711 ERROR Horse [main] Name is blank
+2023-09-07 18:26:28,719 ERROR Horse [main] Name is blank
+2023-09-07 18:26:28,724 ERROR Horse [main] Name is null
+2023-09-07 18:26:28,728 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 18:26:28,730 DEBUG Horse [main] Создание Horse, имя [name}], скорость [1.0]
+2023-09-07 18:26:28,734 ERROR Hippodrome [main] Horses list is empty
+2023-09-07 18:26:28,820 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [50]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [5}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [6}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [7}], скорость [1.0]
+2023-09-07 18:26:28,882 DEBUG Horse [main] Создание Horse, имя [8}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [9}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [10}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [11}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [12}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [13}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [14}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [15}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [16}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [17}], скорость [1.0]
+2023-09-07 18:26:28,883 DEBUG Horse [main] Создание Horse, имя [18}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [19}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [20}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [21}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [22}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [23}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [24}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [25}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [26}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [27}], скорость [1.0]
+2023-09-07 18:26:28,884 DEBUG Horse [main] Создание Horse, имя [28}], скорость [1.0]
+2023-09-07 18:26:28,885 DEBUG Horse [main] Создание Horse, имя [29}], скорость [1.0]
+2023-09-07 18:26:28,885 DEBUG Horse [main] Создание Horse, имя [30}], скорость [1.0]
+2023-09-07 18:26:28,885 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [30]
+2023-09-07 18:26:28,888 ERROR Hippodrome [main] Horses list is null
+2023-09-07 18:26:28,892 ERROR Hippodrome [main] Horses list is null
+2023-09-07 18:26:28,894 DEBUG Horse [main] Создание Horse, имя [1}], скорость [1.0]
+2023-09-07 18:26:28,894 DEBUG Horse [main] Создание Horse, имя [2}], скорость [1.0]
+2023-09-07 18:26:28,894 DEBUG Horse [main] Создание Horse, имя [3}], скорость [1.0]
+2023-09-07 18:26:28,894 DEBUG Horse [main] Создание Horse, имя [4}], скорость [1.0]
+2023-09-07 18:26:28,894 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [4]
+2023-09-07 18:26:28,903 ERROR Hippodrome [main] Horses list is empty
